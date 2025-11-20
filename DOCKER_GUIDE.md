@@ -10,7 +10,7 @@
 ### Step 1: Open Terminal
 Open PowerShell or Command Prompt in the project directory:
 ```powershell
-cd c:\Users\dylanapera\r\docker101
+cd c:\app-location
 ```
 
 ### Step 2: Build the Docker Image
